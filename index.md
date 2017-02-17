@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 開発環境
 
-You can use the [editor on GitHub](https://github.com/tjkendev/tjkendev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+言語: Python, C++, JavaScript(CoffeeScript)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+エディタ: Vim  
 
-### Markdown
+## 成果物
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ゲーム制作
 
-```markdown
-Syntax highlighted code block
+"TITech Defense": 2012年工大祭展示  
+言語: HSP  
+Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8BFF073B71E297E)
 
-# Header 1
-## Header 2
-### Header 3
+"繋ぎ消しパズル": 2014年工大祭展示
+言語: JavaScript(HTML5, Node.js)  
+Play: http://smijake3.s602.xrea.com/game/rogy/kodaisai14/
 
-- Bulleted
-- List
+### そのほか
 
-1. Numbered
-2. List
+Graham Scan可視化  
+言語: JavaScript(HTML5, Node.js)  
+Link: http://smijake3.s602.xrea.com/tips/algorithm/graham_scan/  
+Source: https://github.com/tjkendev/graham-scan
 
-**Bold** and _Italic_ and `Code` text
+## 競技プログラミング
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjkendev/tjkendev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+AOJ: [jakenu0x5e](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=jakenu0x5e)  
+POJ: [jakenu0x5e](http://poj.org/userstatus?user_id=jakenu0x5e)  
+AtCoder: [yaketake08](https://atcoder.jp/user/yaketake08)  
+Codeforces: [tjake](http://codeforces.com/profile/tjake)  
+TopCoder: [tjaga](https://www.topcoder.com/members/tjaga/)  
+ProjectEuler: tjake(476262_29a06495b346b288fdfe084c9b1400c5)    
+![Project Euler](https://projecteuler.net/profile/tjake.png)
