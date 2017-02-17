@@ -12,9 +12,15 @@
 言語: HSP  
 Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8BFF073B71E297E)
 
-"繋ぎ消しパズル": 2014年工大祭展示
+"数陣Titech": 2013年工大祭展示  
+言語: C++ (DirectX9)
+
+"繋ぎ消しパズル": 2014年工大祭展示   
 言語: JavaScript(HTML5, Node.js)  
 Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)
+
+"レベルを上げたい！": 2015年工大祭展示  
+言語: Python(pygame)
 
 ### そのほか
 
