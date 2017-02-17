@@ -28,6 +28,7 @@ Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8
 Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)
 
 #### "レベルを上げたい！"
+<img src="./img/2015_level.png" width="320" height="240">  
 2015年工大祭展示  
 ジャンル: アクションゲーム  
 言語: Python(pygame)
