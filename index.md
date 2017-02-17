@@ -4,27 +4,31 @@
 
 エディタ: Vim  
 
-## 成果物
+## 成果物一覧
 
 ### ゲーム制作
 
-"TITech Defense": 2012年工大祭展示  
-言語: HSP  
+#### "TITech Defense": 2012年工大祭展示  
+ジャンル: 防衛ゲーム  
+言語: HSP  
 Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8BFF073B71E297E)
 
-"数陣Titech": 2013年工大祭展示  
+#### "数陣Titech": 2013年工大祭展示  
+ジャンル： パズルゲーム  
 言語: C++ (DirectX9)
 
-"繋ぎ消しパズル": 2014年工大祭展示   
+#### "繋ぎ消しパズル": 2014年工大祭展示  
+ジャンル: パズルゲーム  
 言語: JavaScript(HTML5, Node.js)  
 Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)
 
-"レベルを上げたい！": 2015年工大祭展示  
+#### "レベルを上げたい！": 2015年工大祭展示  
+ジャンル: アクションゲーム  
 言語: Python(pygame)
 
 ### そのほか
 
-Graham Scan可視化  
+#### Graham Scan可視化  
 言語: JavaScript(HTML5, Node.js)  
 Link: [web page](http://smijake3.s602.xrea.com/tips/algorithm/graham_scan/)  
 Source: [GitHub](https://github.com/tjkendev/graham-scan)
