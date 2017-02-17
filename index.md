@@ -14,14 +14,14 @@ Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8
 
 "繋ぎ消しパズル": 2014年工大祭展示
 言語: JavaScript(HTML5, Node.js)  
-Play: http://smijake3.s602.xrea.com/game/rogy/kodaisai14/
+Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)
 
 ### そのほか
 
 Graham Scan可視化  
 言語: JavaScript(HTML5, Node.js)  
-Link: http://smijake3.s602.xrea.com/tips/algorithm/graham_scan/  
-Source: https://github.com/tjkendev/graham-scan
+Link: [web page](http://smijake3.s602.xrea.com/tips/algorithm/graham_scan/)  
+Source: [GitHub](https://github.com/tjkendev/graham-scan)
 
 ## 競技プログラミング
 
