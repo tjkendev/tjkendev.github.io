@@ -9,6 +9,7 @@
 ### == ゲーム制作 ==
 
 #### "TITech Defense"
+<img src=./img/2012_titechdefense.png width="320" height="240" />  
 2012年工大祭展示  
 ジャンル: 防衛ゲーム  
 言語: HSP  
@@ -20,6 +21,7 @@ Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8
 言語: C++ (DirectX9)
 
 #### "繋ぎ消しパズル"
+<img src=./img/2014_puzzle.png width="320" height="240" />  
 2014年工大祭展示  
 ジャンル: パズルゲーム  
 言語: JavaScript(HTML5, Node.js)  
