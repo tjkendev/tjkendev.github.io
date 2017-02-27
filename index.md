@@ -25,7 +25,8 @@ Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8
 2014年工大祭展示  
 ジャンル: パズルゲーム  
 言語: JavaScript(HTML5, Node.js)  
-Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)
+Play: [web page](http://smijake3.s602.xrea.com/game/rogy/kodaisai14/)  
+Source: [GitHub](https://github.com/tjkendev/blockgame-2014)
 
 #### "レベルを上げたい！"
 <img src="./img/2015_level.png" width="320" height="240">  
