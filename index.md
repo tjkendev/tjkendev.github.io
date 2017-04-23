@@ -1,8 +1,23 @@
 ## 開発環境
 
-言語: Python, C++, JavaScript(CoffeeScript)  
+言語:  
+- Python
+  - 競技プログラミング
+  - Webアプリ開発
+  - ゲーム開発
+- C/C++
+  - 競技プログラミング
+  - ゲーム開発
+- JavaScript
+  - Webアプリ開発 (Node.js)  
+- Ruby
+  - Webアプリ開発 (Ruby on Rails)
+- Java
+  - Androidアプリ開発
 
-エディタ: Vim  
+エディタ:  
+- Vim
+- Android Studio
 
 ## 成果物一覧
 
@@ -36,7 +51,7 @@ Source: [GitHub](https://github.com/tjkendev/blockgame-2014)
 
 ### == そのほか ==
 
-#### Graham Scan可視化  
+#### Webアプリ: Graham Scan可視化  
 言語: JavaScript(HTML5, Node.js)  
 Link: [web page](http://smijake3.s602.xrea.com/tips/algorithm/graham_scan/)  
 Source: [GitHub](https://github.com/tjkendev/graham-scan)
