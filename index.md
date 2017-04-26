@@ -1,15 +1,15 @@
 ## 開発環境
 
-言語:  
+言語:
 - Python
   - 競技プログラミング
   - Webアプリ開発
   - ゲーム開発
 - C/C++
   - 競技プログラミング
-  - ゲーム開発
+  - ゲーム開発
 - JavaScript
-  - Webアプリ開発 (Node.js)  
+  - Webアプリ開発 (Node.js [CoffeeScript, pug, less])
 - Ruby
   - Webアプリ開発 (Ruby on Rails)
 - Java
