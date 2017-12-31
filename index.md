@@ -1,3 +1,12 @@
+# プロフィール
+
+name: yaketake08, tjake
+
+やってること, やってたこと:
+- プログラミング
+  - 競技プログラミング
+  - ゲーム制作, Webアプリ開発
+
 ## リンク
 
 - Twitter: [https://twitter.com/jken_ull](https://twitter.com/jken_ull)
@@ -17,11 +26,12 @@
 - Ruby
   - Webアプリ開発 (Ruby on Rails)
 - Java
-  - Androidアプリ開発
+  - Androidアプリ開発, ツール開発
+- x86アセンブラ
+  - コードを読む程度
 
 エディタ:
-- Vim
-- Android Studio
+- Vim, Android Studio, IntelliJ
 
 ## 競技プログラミング
 
@@ -45,6 +55,7 @@
 - yukicoder: [tjake](http://yukicoder.me/users/1186)
 - CodeChef: [tjake](https://www.codechef.com/users/jakenu0x5e)
 - HackerRank: [tjake](https://www.hackerrank.com/tjake)
+- CS Academy: [tjake](https://csacademy.com/user/tjake)
 
 ## 制作物一覧
 
