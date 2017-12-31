@@ -1,22 +1,24 @@
 # プロフィール
+<img src="https://github.com/tjkendev.png" width="120" height="120">
 
-name: yaketake08, tjake
+### 名前:
+- yaketake08, tjake
 
-やってること, やってたこと:
+### やってること, やってたこと:
 - プログラミング
   - 競技プログラミング
   - ゲーム制作, Webアプリ開発
 
 ## リンク
 
-- Twitter: [https://twitter.com/jken_ull](https://twitter.com/jken_ull)
+- Twitter: [@jken_ull](https://twitter.com/jken_ull)
 - Blog: [http://smijake3.hatenablog.com/](http://smijake3.hatenablog.com/)
-- GitHub: [https://github.com/tjkendev](https://github.com/tjkendev)
-- BitBucket: [https://bitbucket.org/tjkendev](https://bitbucket.org/tjkendev)
+- GitHub: [tjkendev](https://github.com/tjkendev)
+- BitBucket: [tjkendev](https://bitbucket.org/tjkendev)
 
 ## 開発環境
 
-言語:
+### 言語:
 - Python
   - 競技プログラミング, Webアプリ開発, ゲーム開発
 - C/C++
@@ -30,7 +32,7 @@ name: yaketake08, tjake
 - x86アセンブラ
   - コードを読む程度
 
-エディタ:
+### エディタ:
 - Vim, Android Studio, IntelliJ
 
 ## 競技プログラミング
@@ -57,9 +59,9 @@ name: yaketake08, tjake
 - HackerRank: [tjake](https://www.hackerrank.com/tjake)
 - CS Academy: [tjake](https://csacademy.com/user/tjake)
 
-## 制作物一覧
+## 主な制作物
 
-### == ゲーム制作 ==
+### <u>ゲーム制作</u>
 
 #### "TITech Defense" (2012年工大祭展示)
 <img src="./img/2012_titechdefense.png" width="320" height="240">
@@ -86,7 +88,7 @@ name: yaketake08, tjake
 - ジャンル: アクションゲーム
 - 言語: Python(pygame)
 
-### == そのほか ==
+### <u>そのほか</u>
 
 #### Webアプリ: Graham Scan可視化  
 - 言語: JavaScript(HTML5, Node.js)
