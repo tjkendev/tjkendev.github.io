@@ -13,6 +13,7 @@
 
 - Twitter: [@jken_ull](https://twitter.com/jken_ull)
 - Blog: [http://smijake3.hatenablog.com/](http://smijake3.hatenablog.com/)
+- 競プロ実装メモ: [procon-library](http://tjkendev.github.io/procon-library/)
 - GitHub: [tjkendev](https://github.com/tjkendev)
 - BitBucket: [tjkendev](https://bitbucket.org/tjkendev)
 
@@ -29,11 +30,13 @@
   - Webアプリ開発 (Ruby on Rails)
 - Java
   - Androidアプリ開発, ツール開発
-- x86アセンブラ
+- x86 assembly
   - コードを読む程度
+- Golang
+  - Webアプリ開発 (echo)
 
 ### エディタ:
-- Vim, Android Studio, IntelliJ
+- Vim, Android Studio, IntelliJ, VSCode
 
 ## 競技プログラミング
 
@@ -58,13 +61,14 @@
 - CodeChef: [tjake](https://www.codechef.com/users/jakenu0x5e)
 - HackerRank: [tjake](https://www.hackerrank.com/tjake)
 - CS Academy: [tjake](https://csacademy.com/user/tjake)
+- LeetCode: [yaketake08](https://leetcode.com/yaketake08/)
 
 ## 主な制作物
 
 ### <u>ゲーム制作</u>
 
 #### "TITech Defense" (2012年工大祭展示)
-<img src="./img/2012_titechdefense.png" width="320" height="240">
+<img src="./img/2012_titechdefense.png" width="160" height="120">
 
 - ジャンル: 防衛ゲーム  
 - 言語: HSP  
@@ -75,7 +79,7 @@
 - 言語: C++ (DirectX9)
 
 #### "繋ぎ消しパズル" (2014年工大祭展示)
-<img src="./img/2014_puzzle.png" width="320" height="240">
+<img src="./img/2014_puzzle.png" width="160" height="120">
 
 - ジャンル: パズルゲーム
 - 言語: JavaScript(HTML5, Node.js)
@@ -83,7 +87,7 @@
 - Source: [GitHub](https://github.com/tjkendev/blockgame-2014)
 
 #### "レベルを上げたい！" (2015年工大祭展示)
-<img src="./img/2015_level.png" width="320" height="240">
+<img src="./img/2015_level.png" width="160" height="120">
 
 - ジャンル: アクションゲーム
 - 言語: Python(pygame)
