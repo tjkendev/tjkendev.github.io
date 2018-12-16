@@ -16,6 +16,7 @@
 - 競プロ実装メモ: [procon-library](http://tjkendev.github.io/procon-library/)
 - GitHub: [tjkendev](https://github.com/tjkendev)
 - BitBucket: [tjkendev](https://bitbucket.org/tjkendev)
+- GitLab: [tjkendev](https://gitlab.com/tjkendev)
 
 ## 開発環境
 
@@ -33,20 +34,22 @@
 - x86 assembly
   - コードを読む程度
 - Golang
-  - Webアプリ開発 (echo)
+  - Webアプリ開発 (Echo)
 
 ### エディタ:
 - Vim, Android Studio, IntelliJ, VSCode
 
 ## 競技プログラミング
 
-### 主なコンテスト参加履歴:
+### 主なオンサイトコンテスト参加履歴:
 
 - Code Thanks Festival 2014A
 - Code Festival 2015, 2016, 2017
 - Code Runner 2015
 - DDCC 2016, 2017
-- ACM-ICPC 2016 (team: nikku), 2017 (team: IQ1)
+- ACM-ICPC
+    - 2016 : Team nikku (国内予選),
+    - 2017 : Team IQ1 (国内予選, アジア予選(Tsukuba, Nakhon Pathom))
 
 ### アカウント:
 
