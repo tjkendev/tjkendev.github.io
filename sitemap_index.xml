@@ -6,4 +6,7 @@
   <sitemap>
     <loc>https://tjkendev.github.io/procon-library/sitemap.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://tjkendev.github.io/bst-visualization/sitemap.xml</loc>
+  </sitemap>
 </sitemapindex>
