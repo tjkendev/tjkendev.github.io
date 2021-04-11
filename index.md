@@ -16,7 +16,6 @@
 - GitHub: [tjkendev](https://github.com/tjkendev)
 - BitBucket: [tjkendev](https://bitbucket.org/tjkendev)
 - GitLab: [tjkendev](https://gitlab.com/tjkendev)
-
 - 競プロ実装メモ: [procon-library](https://tjkendev.github.io/procon-library/)
 - BST可視化: [bst-visualization](https://tjkendev.github.io/bst-visualization/)
 
@@ -77,7 +76,6 @@
 
 - ジャンル: 防衛ゲーム
 - 言語: HSP
-- Download: [OneDrive](https://onedrive.live.com/?id=A8BFF073B71E297E%21107&cid=A8BFF073B71E297E)
 
 #### "数陣Titech" (2013年工大祭展示)
 - ジャンル： パズルゲーム
@@ -95,7 +93,7 @@
 <img src="./img/2015_level.png" width="160" height="120">
 
 - ジャンル: アクションゲーム
-- 言語: Python(pygame)
+- 言語: Python (pygame)
 
 ### <u>そのほか</u>
 
